@@ -18,7 +18,7 @@ Tracer's Cafe is a sample application that implemented in Entity Framework 6, in
 
 ***
 
-To start the Application Follow the following step:
+# To start the Application Follow the following step:
 
 1. Clone the project https://github.com/Zain517/Tracer_Cafe.git
 2. Go to Tracer_Cafe/TracerCafe
@@ -28,3 +28,9 @@ To start the Application Follow the following step:
 6. First time it will take ~3 mint to load all of its packages so wait till home page appear
 7. Main functionality : Navbar -> Customer (wait till load DB)
 8. That's all
+
+***
+
+# What if I had more time...!!!
+
+I will update its DB structure like move all the 4 addresses in new table by making new Table for addresses. The 2nd table will have the forign_Key of first table's PK.
