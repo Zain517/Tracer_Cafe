@@ -27,7 +27,7 @@ Tracer's Cafe is a sample application that implemented in Entity Framework 6, in
 5. when complety load press Ctrl+F5 to run the application on Localhost
 6. First time it will take ~3 mint to load all of its packages so wait till home page appear
 7. Main functionality : Navbar -> Customer (wait till load DB)
-8. That's all
+8. That's  all
 
 ***
 
